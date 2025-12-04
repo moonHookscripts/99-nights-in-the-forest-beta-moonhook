@@ -1,4 +1,4 @@
--- leaked by stalkie
+-- beta nigga
 local v1 = loadstring(game:HttpGet("https://sirius.menu/rayfield"))()
 local v_u_2 = game:GetService("Players")
 local v_u_3 = game:GetService("ReplicatedStorage")
@@ -49,9 +49,9 @@ local function v_u_21(p14)
 	return nil
 end
 local v22 = v1:CreateWindow({
-	["Name"] = "99 Nights With Federal",
-	["LoadingTitle"] = "Loading Interface...",
-	["LoadingSubtitle"] = "by the AK Team",
+	["Name"] = " 99 nights in the forest",
+	["LoadingTitle"] = "loading join discord!",
+	["LoadingSubtitle"] = "by community dev",
 	["Theme"] = {
 		["TextColor"] = Color3.fromRGB(240, 240, 240),
 		["Background"] = Color3.fromRGB(0, 0, 0),
@@ -1986,3 +1986,4 @@ v28:CreateButton({
 		end)
 	end
 })
+
